@@ -1,4 +1,4 @@
-|System|Emulator|Extension|BIOS|Manufact.|Image|
+|System|Emulator|Extension|BIOS|Manufact.|Image|h
 | :---:| :---:| :---:| :---:| :---:| :---:|
 |[<sub>3do](3do)</sub>|<sub>[lr-4do](https://github.com/libretro/4do-libretro) </sub>|<sub>.iso</sub>|<sub>panafz10.bin</sub>|<sub>1993: Panasonic</sub>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/3DO-FZ1-Console-Set.png/160px-3DO-FZ1-Console-Set.png" width="102">  
 |[<sub>Amiga](Amiga)</sub>|<sub>[UAE4ARM](https://github.com/Chips-fr/uae4arm-rpi/), [UAE4ALL2](https://github.com/RetroPie/uae4all2)</sub>|<sub>.adf .adz .dms .exe .rp9 .zip</sub>|<sub>kick13.rom, kick20.rom, kick31.rom</sub>|<sub>1985: Commodore</sub>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/160px-Amiga500_system.jpg" width="102">  
